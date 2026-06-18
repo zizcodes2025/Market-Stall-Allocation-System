@@ -109,7 +109,7 @@ Market-Stall-Allocation-System
 ## Contributors
 
 - Abdul Aziz Sesay
-- Sharon Mary Koroma
+- Sharon Mary Koroma 905006201 
 - Member 3 Name
 
 ---
