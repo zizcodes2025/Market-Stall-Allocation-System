@@ -334,7 +334,7 @@ Market-Stall-Allocation-System
 | ------------------ | ---------- |
 | Abdul Aziz Sesay   | XXXXXXXX   |
 | Sharon Mary Koroma | 905006201  |
-| Member 3           | XXXXXXXX   |
+| Gibril Bangura     | 905005708  |
 
 ---
 
