@@ -332,7 +332,7 @@ Market-Stall-Allocation-System
 
 | Name               | Student ID |
 | ------------------ | ---------- |
-| Abdul Aziz Sesay   | XXXXXXXX   |
+| Abdul Aziz Sesay   | 905005987  |
 | Sharon Mary Koroma | 905006201  |
 | Gibril Bangura     | 905005708  |
 
